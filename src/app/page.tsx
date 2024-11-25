@@ -161,7 +161,7 @@ function Tokenomics() {
         "Lock LP.",
     },
     {
-      title: "1B $PNUTAI",
+      title: "100B $PNUTAI",
       description:
         "Token Supply",
     },
